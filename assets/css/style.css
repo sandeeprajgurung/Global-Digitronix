@@ -844,7 +844,7 @@ section {
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #a4c8e9;
+  background: #464e52;
 }
 
 .services .icon i {
@@ -1070,7 +1070,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #a4c8e9;
-  background: #fff1ed;
+  background: #464e52;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -2172,7 +2172,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #313030;
+  color: #ffffff;
   font-size: 14px;
   background: #fff;
 }
@@ -2199,13 +2199,13 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
-  color: #656262;
+  color: #ffffff;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #313030;
+  color: #ffffff;
   position: relative;
   padding-bottom: 12px;
 }
@@ -2222,7 +2222,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ffa587;
+  color: #ffffff;
   font-size: 18px;
   line-height: 1;
 }
@@ -2238,7 +2238,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #656262;
+  color: #ffffff;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -2256,7 +2256,7 @@ section {
 #footer .footer-newsletter h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #313030;
+  color: #ffffff;
   position: relative;
   padding-bottom: 12px;
 }
@@ -2268,7 +2268,7 @@ section {
   position: relative;
   border-radius: 50px;
   text-align: left;
-  border: 1px solid #ffe2d9;
+  border: 1px solid #ffffff;
 }
 
 #footer .footer-newsletter form input[type="email"] {
