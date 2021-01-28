@@ -1638,6 +1638,56 @@ section {
   }
 }
 
+
+/*--------------------------------------------------------------
+# Development
+--------------------------------------------------------------*/
+
+.devProcess {
+  background-color: #d0e4f4;
+}
+/*--------------------------------------------------------------
+# Industries
+--------------------------------------------------------------*/
+
+.industries .industries-block {
+  padding: 12px;
+}
+
+@media (max-width: 992px) {
+  .industries .industries-col {
+    padding: 4px;
+  }
+  .industries .industries-block {
+    padding: 2px;
+  }
+}
+
+.industries .industries-block:hover {
+  background-color: #d0e4f4;
+}
+
+.industries .industries-block:hover small {
+  display: block;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  color: #ffffff;
+  background-color: #464e52;
+    padding: 4px;
+    text-align: center;
+}
+
+.industries .industries-block small {
+  display: none;
+}
+
+.industries .industries-block .industries-img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
 /*--------------------------------------------------------------
 # Blog
 --------------------------------------------------------------*/
