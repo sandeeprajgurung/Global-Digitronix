@@ -1673,14 +1673,15 @@ section {
 }
 
 .industries .industries-block:hover small {
-  display: block;
-  position: absolute;
   top: 50%;
   width: 100%;
+  padding: 4px;
+  display: block;
   color: #ffffff;
+  position: absolute;
+  text-align: center;
+  border-radius: 4px;
   background-color: #464e52;
-    padding: 4px;
-    text-align: center;
 }
 
 .industries .industries-block small {
