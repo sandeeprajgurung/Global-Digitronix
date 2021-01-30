@@ -2379,3 +2379,28 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.devProcess .member {
+  width: 250px;
+  padding: 12px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+  background: #ffffff;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+.devProcess .member-img {
+  width: 150px;
+  height: auto;
+  margin: auto;
+}
+
+.devProcess .member-info {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.devProcess .member-info h4 {
+  font-size: 16px;
+  font-weight: bold;
+}
