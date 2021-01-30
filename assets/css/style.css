@@ -2389,6 +2389,17 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
+.devProcess .member .dot {
+  font-weight: bold;
+  text-align: center;
+  height: 25px;
+  width: 25px;
+  color: #a4c8e9;
+  background-color: #464e52;
+  border-radius: 50%;
+  display: inline-block;
+}
+
 .devProcess .member-img {
   width: 150px;
   height: auto;
