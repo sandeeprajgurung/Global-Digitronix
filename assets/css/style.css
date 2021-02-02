@@ -2588,3 +2588,10 @@ section {
 .about_Us .section-title.aos-init.aos-animate {
   margin-top: 70px;
 }
+
+.career-technologies img {
+  width: 200px;
+  height: auto;
+  padding: 12px;
+  margin-bottom: 12px;
+}
