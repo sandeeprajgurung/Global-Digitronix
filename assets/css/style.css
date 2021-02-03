@@ -2603,3 +2603,11 @@ section {
 .bg-custom-white {
   background: #ffffff;
 }
+
+.we-work-with h2 {
+  margin-bottom: 12px;
+}
+
+.we-work-with p {
+  margin-bottom: 18px;
+}
