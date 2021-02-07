@@ -220,3 +220,20 @@
   });
 
 })(jQuery);
+
+$(document).ready(function() {
+  function sendEmail() {
+    Email.send({
+        Host : "smtp.mailtrap.io",
+        Username : "sandeep@proshore.eu",
+        Password : "732DCB80A606905F0C10B1323B3EF67C6EF6",
+        To : 'smile2srg@gmail.com',
+        From : "sandeep@proshore.eu",
+        Subject : "Test email",
+        Body : "<html><h2>Header</h2><strong>Bold text</strong><br></br><em>Italic</em></html>"
+    }).then(
+      message => alert(message)
+    );
+    }
+  }
+);

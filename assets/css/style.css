@@ -2691,3 +2691,7 @@ FAQ
   border-bottom-right-radius:0;
   border-bottom-left-radius:0;
 }
+
+.copyright {
+  color: #464e52;
+}
